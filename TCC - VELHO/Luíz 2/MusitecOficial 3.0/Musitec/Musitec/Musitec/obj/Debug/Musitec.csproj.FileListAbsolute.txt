@@ -1,0 +1,533 @@
+G:\Musitec\Musitec\bin\Debug\Musitec.exe
+G:\Musitec\Musitec\bin\Debug\Musitec.pdb
+G:\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+G:\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+G:\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+G:\Musitec\Musitec\obj\Debug\Musitec.exe
+G:\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+F:\Musitec\Musitec\obj\Debug\Musitec.exe
+F:\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Luck\Desktop\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Luck\Desktop\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Luck\Desktop\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Luck\Desktop\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Luck\Desktop\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Luck\Desktop\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Luck\Desktop\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Barbara\Desktop\txx\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+F:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+F:\ETEC\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+G:\ETEC\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\ETEC\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+G:\ETEC\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+G:\ETEC\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+G:\musitecTESTE\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+G:\musitecTESTE\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+G:\musitecTESTE\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+G:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+H:\musitecTESTE\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+H:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+H:\musitecTESTE\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+G:\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+G:\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+G:\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Luiz\Desktop\TCC\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.dll
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\PROF\Desktop\Oficial\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\Gustavo\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.dll
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.xml
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.dll
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Luiz\Desktop\Musitec v1.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Luiz\Desktop\Musitec v2.0\MusitecOficial\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Luiz\Desktop\Musitec v2.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Luiz\Desktop\Musitec v2.0\MusitecOficial\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.dll
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.xml
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\MusitecOficial v2.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+F:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+G:\Arquivos\TCC\MusitecOficial 2.1\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.xml
+C:\Users\Luiz\Desktop\TCC\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+G:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\ResolveAssemblyReference.cache
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\GenerateResource.read.1.tlog
+H:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\GenerateResource.write.1.tlog
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.xml
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+E:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+F:\Arquivos\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.dll
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.xml
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Luíz\Musitec v.3.0\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.dll
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.xml
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\Luíz\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe.config
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\Musitec.pdb
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.dll
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\bin\Debug\MySql.Data.xml
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.FotoUsuario.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmAux1.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmCadastro.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.frmLogin.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo1.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo10.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo11.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo12.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo13.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo14.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo15.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo16.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo2.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo3.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo4.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo5.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo6.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo7.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo8.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Modulo9.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Perfil.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.sobre.resources
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.exe
+C:\Users\Gustavo\Desktop\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec\obj\Debug\Musitec.pdb

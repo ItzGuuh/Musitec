@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{61B1EDE4-463E-4D01-A987-F4201DDB14D9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Musitec</RootNamespace>
+    <AssemblyName>Musitec</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Gustavo\Desktop\Aqui\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Musitec</ProductName>
+    <PublisherName>Musitec</PublisherName>
+    <SuiteName>Musitec</SuiteName>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>3.5.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo-01.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Musitec.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F573B80E54651D2911B19C855C8E9B1E6C9239FA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Musitec_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="afinacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="afinacao.Designer.cs">
+      <DependentUpon>afinacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro.cs" />
+    <Compile Include="Conclusao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conclusao.Designer.cs">
+      <DependentUpon>Conclusao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexao.cs" />
+    <Compile Include="dal.cs" />
+    <Compile Include="desenvolvedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="desenvolvedores.Designer.cs">
+      <DependentUpon>desenvolvedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FotoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FotoUsuario.Designer.cs">
+      <DependentUpon>FotoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAux1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAux1.Designer.cs">
+      <DependentUpon>frmAux1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCadastro.Designer.cs">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="introducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="introducao.Designer.cs">
+      <DependentUpon>introducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metodos.cs" />
+    <Compile Include="Modulo1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo1.Designer.cs">
+      <DependentUpon>Modulo1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo10.Designer.cs">
+      <DependentUpon>Modulo10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo11.Designer.cs">
+      <DependentUpon>Modulo11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo12.Designer.cs">
+      <DependentUpon>Modulo12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo13.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo13.Designer.cs">
+      <DependentUpon>Modulo13.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo14.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo14.Designer.cs">
+      <DependentUpon>Modulo14.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo15.Designer.cs">
+      <DependentUpon>Modulo15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo16.Designer.cs">
+      <DependentUpon>Modulo16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo2.Designer.cs">
+      <DependentUpon>Modulo2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo3.Designer.cs">
+      <DependentUpon>Modulo3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo4.Designer.cs">
+      <DependentUpon>Modulo4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo5.Designer.cs">
+      <DependentUpon>Modulo5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo6.Designer.cs">
+      <DependentUpon>Modulo6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo7.Designer.cs">
+      <DependentUpon>Modulo7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo8.Designer.cs">
+      <DependentUpon>Modulo8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulo9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulo9.Designer.cs">
+      <DependentUpon>Modulo9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfil.Designer.cs">
+      <DependentUpon>Perfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sobre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sobre.Designer.cs">
+      <DependentUpon>sobre.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="afinacao.resx">
+      <DependentUpon>afinacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conclusao.resx">
+      <DependentUpon>Conclusao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="desenvolvedores.resx">
+      <DependentUpon>desenvolvedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FotoUsuario.resx">
+      <DependentUpon>FotoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAux1.resx">
+      <DependentUpon>frmAux1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCadastro.resx">
+      <DependentUpon>frmCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="introducao.resx">
+      <DependentUpon>introducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo1.resx">
+      <DependentUpon>Modulo1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo10.resx">
+      <DependentUpon>Modulo10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo11.resx">
+      <DependentUpon>Modulo11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo12.resx">
+      <DependentUpon>Modulo12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo13.resx">
+      <DependentUpon>Modulo13.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo14.resx">
+      <DependentUpon>Modulo14.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo15.resx">
+      <DependentUpon>Modulo15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo16.resx">
+      <DependentUpon>Modulo16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo2.resx">
+      <DependentUpon>Modulo2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo3.resx">
+      <DependentUpon>Modulo3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo4.resx">
+      <DependentUpon>Modulo4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo5.resx">
+      <DependentUpon>Modulo5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo6.resx">
+      <DependentUpon>Modulo6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo7.resx">
+      <DependentUpon>Modulo7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo8.resx">
+      <DependentUpon>Modulo8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modulo9.resx">
+      <DependentUpon>Modulo9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfil.resx">
+      <DependentUpon>Perfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sobre.resx">
+      <DependentUpon>sobre.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Musitec_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icone_Musitec.ico" />
+    <None Include="Resources\voltarigual.png" />
+    <None Include="Resources\Voltar.png" />
+    <None Include="Resources\boy-5.png" />
+    <Content Include="Logo-01.ico" />
+    <None Include="Resources\cadastrar.png" />
+    <None Include="Resources\cadastrarFim.png" />
+    <None Include="Resources\cadastrarigual.png" />
+    <None Include="Resources\111logo_etecia.png" />
+    <Content Include="Resources\Imagens Módulos\12.jpg" />
+    <Content Include="Resources\Imagens Módulos\13.jpg" />
+    <Content Include="Resources\Imagens Módulos\14.jpg" />
+    <Content Include="Resources\Imagens Módulos\15.jpg" />
+    <Content Include="Resources\Imagens Módulos\16.jpg" />
+    <None Include="Resources\usuario61.png" />
+    <None Include="Resources\M6A1.png" />
+    <None Include="Resources\m2a1_anatomia_violao.png" />
+    <None Include="Resources\m2a1_cifragem_do_violao.png" />
+    <None Include="Resources\m5a2_Escala_das_notas_para_acorde.png" />
+    <None Include="Resources\m5a3_Formacao_de_acordes_menores.png" />
+    <None Include="Resources\m6a1_1formula_acordes_maiores.png" />
+    <None Include="Resources\m6a1_1formula_acordes_menores.png" />
+    <None Include="Resources\m6a1_2formula_acordes_maiores.png" />
+    <None Include="Resources\m6a1_2formula_acordes_menores.png" />
+    <None Include="Resources\m6a1_3formula_acordes_maiores.png" />
+    <None Include="Resources\m6a1_3formula_acordes_menores.png" />
+    <None Include="Resources\m6a1_formula_acordes.png" />
+    <None Include="Resources\m6a2_sequencia_basica_acordes.png" />
+    <None Include="Resources\m6a2_sequencia_basica_acordes2.png" />
+    <None Include="Resources\m6a2_sequencia_basica_acordes3.png" />
+    <None Include="Resources\m7a2_Acordes_com_setima_menor.png" />
+    <None Include="Resources\m9a1_Formulas_para_acordes_maiores_com_7+.png" />
+    <None Include="Resources\m9a1_Formulas_para_acordes_menores_com_7+.png" />
+    <None Include="Resources\m10a3_Formulas_para_acordes_maiores_com_6.png" />
+    <None Include="Resources\m10a3_Formulas_para_acordes_menores_com_6.png" />
+    <None Include="Resources\m10a5_Formulas_para_acordes_maiores_com_67.png" />
+    <None Include="Resources\m10a5_Formulas_para_acordes_menores_com_67.png" />
+    <None Include="Resources\m11a3_A_batida_no_pedal.png" />
+    <None Include="Resources\m11a5_A_batida_na_caixa.png" />
+    <None Include="Resources\m11a5_A_puxada_no_chimbal.png" />
+    <None Include="Resources\m11a5_Na_hora_do_repique.png" />
+    <None Include="Resources\m11a5_O_violao_e_a_bateria.png" />
+    <None Include="Resources\m11a6_1Balada_jovem_e_rock_pop.png" />
+    <None Include="Resources\m11a6_2Samba.png" />
+    <None Include="Resources\m11a6_3Valsa_parte_baixo.png" />
+    <None Include="Resources\m11a6_3Valsa_parte_cima.png" />
+    <None Include="Resources\m11a6_4Begume.png" />
+    <None Include="Resources\m11a6_5Reggae.png" />
+    <None Include="Resources\m11a6_6Forro_baiao.png" />
+    <None Include="Resources\m11a6_7Forro_universitario_xote.png" />
+    <None Include="Resources\m11a6_8Pagode.png" />
+    <None Include="Resources\m11a6_9Guarania.png" />
+    <None Include="Resources\m11a7_Ritmos_dedilhados.png" />
+    <None Include="Resources\m11a_Compasso.png" />
+    <None Include="Resources\m11a_Simbologia_dos_ritmos.png" />
+    <None Include="Resources\m12a2_Formacao_acordes_7_o.png" />
+    <None Include="Resources\m12a5_Acordes_com_setima_diminutiva.png" />
+    <None Include="Resources\m13a3_Formulas_pra_acordes_maiores_com_4.png" />
+    <None Include="Resources\m13a5_1Formulas_para_acordes_maiores_com_47.png" />
+    <None Include="Resources\m13a5_2Formulas_para_acordes_menores_com_47.png" />
+    <None Include="Resources\m16a3_1Formulas_para_acordes_maiores_com_9.png" />
+    <None Include="Resources\m16a3_2Formulas_para_acordes_menores_com_9.png" />
+    <None Include="Resources\m16a4_Acordes_com_49_nem_maiores_nem_menores.png" />
+    <None Include="Resources\m16a5_Formulas_para_acordes_maiores_com_69.png" />
+    <None Include="Resources\m16a5_Formulas_para_acordes_menores_com_69.png" />
+    <None Include="Resources\m16a7_Formulas_para_acordes_maiores_com_79.png" />
+    <None Include="Resources\m16a7_Formulas_para_acordes_menores_com_79.png" />
+    <None Include="Resources\m16a9_Formulas_para_acordes_maiores_com_79-.png" />
+    <None Include="Resources\m4a4_Valor_das_sequencias_de_notas.png" />
+    <None Include="Resources\m4a3_Cifragem_da_melodia2.png" />
+    <None Include="Resources\m4a3_Cifragem_da_melodia.png" />
+    <None Include="Resources\prosseguir.png" />
+    <None Include="Resources\proxima.png" />
+    <Content Include="Resources\usuario1.png" />
+    <None Include="Resources\usuario11.png" />
+    <Content Include="Resources\usuario2.png" />
+    <None Include="Resources\usuario21.png" />
+    <Content Include="Resources\usuario3.png" />
+    <None Include="Resources\usuario31.png" />
+    <Content Include="Resources\usuario4.png" />
+    <None Include="Resources\usuario41.png" />
+    <Content Include="Resources\usuario5.png" />
+    <None Include="Resources\usuario51.png" />
+    <Content Include="Resources\usuario6.png" />
+    <None Include="Resources\Imagens Módulos\1.jpg" />
+    <None Include="Resources\Imagens Módulos\11.jpg" />
+    <None Include="Resources\Imagens Módulos\2.jpg" />
+    <None Include="Resources\Imagens Módulos\3.jpg" />
+    <None Include="Resources\Imagens Módulos\4.jpg" />
+    <None Include="Resources\Imagens Módulos\5.jpg" />
+    <None Include="Resources\Imagens Módulos\6.jpg" />
+    <None Include="Resources\Imagens Módulos\7.jpg" />
+    <None Include="Resources\Imagens Módulos\8.jpg" />
+    <None Include="Resources\Imagens Módulos\9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\Imagens Aulas\" />
+    <Folder Include="Resources\Imagens de Fundo\" />
+    <Folder Include="Resources\Outras Imagens\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

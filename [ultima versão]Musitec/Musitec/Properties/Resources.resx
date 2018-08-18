@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="m10a3_Formulas_para_acordes_maiores_com_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m10a3_Formulas_para_acordes_maiores_com_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m10a3_Formulas_para_acordes_menores_com_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m10a3_Formulas_para_acordes_menores_com_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m10a5_Formulas_para_acordes_maiores_com_67" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m10a5_Formulas_para_acordes_maiores_com_67.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m10a5_Formulas_para_acordes_menores_com_67" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m10a5_Formulas_para_acordes_menores_com_67.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a3_A_batida_no_pedal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a3_A_batida_no_pedal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a5_A_batida_na_caixa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a5_A_batida_na_caixa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a5_A_puxada_no_chimbal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a5_A_puxada_no_chimbal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a5_Na_hora_do_repique" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a5_Na_hora_do_repique.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a5_O_violao_e_a_bateria" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a5_O_violao_e_a_bateria.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_1Balada_jovem_e_rock_pop" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_1Balada_jovem_e_rock_pop.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_2Samba" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_2Samba.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_3Valsa_parte_baixo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_3Valsa_parte_baixo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_3Valsa_parte_cima" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_3Valsa_parte_cima.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_4Begume" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_4Begume.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_5Reggae" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_5Reggae.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_6Forro_baiao" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_6Forro_baiao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_7Forro_universitario_xote" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_7Forro_universitario_xote.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_8Pagode" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_8Pagode.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a6_9Guarania" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a6_9Guarania.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a7_Ritmos_dedilhados" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a7_Ritmos_dedilhados.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a_Compasso" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a_Compasso.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m11a_Simbologia_dos_ritmos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m11a_Simbologia_dos_ritmos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m12a2_Formacao_acordes_7_o" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m12a2_Formacao_acordes_7_o.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m12a5_Acordes_com_setima_diminutiva" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m12a5_Acordes_com_setima_diminutiva.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m13a3_Formulas_pra_acordes_maiores_com_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m13a3_Formulas_pra_acordes_maiores_com_4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m13a5_1Formulas_para_acordes_maiores_com_47" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m13a5_1Formulas_para_acordes_maiores_com_47.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m13a5_2Formulas_para_acordes_menores_com_47" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m13a5_2Formulas_para_acordes_menores_com_47.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a3_1Formulas_para_acordes_maiores_com_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a3_1Formulas_para_acordes_maiores_com_9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a3_2Formulas_para_acordes_menores_com_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a3_2Formulas_para_acordes_menores_com_9.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a4_Acordes_com_49_nem_maiores_nem_menores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a4_Acordes_com_49_nem_maiores_nem_menores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a5_Formulas_para_acordes_maiores_com_69" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a5_Formulas_para_acordes_maiores_com_69.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a5_Formulas_para_acordes_menores_com_69" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a5_Formulas_para_acordes_menores_com_69.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a7_Formulas_para_acordes_maiores_com_79" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a7_Formulas_para_acordes_maiores_com_79.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a7_Formulas_para_acordes_menores_com_79" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a7_Formulas_para_acordes_menores_com_79.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m16a9_Formulas_para_acordes_maiores_com_79_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m16a9_Formulas_para_acordes_maiores_com_79-.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m2a1_anatomia_violao1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m2a1_anatomia_violao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m2a1_cifragem_do_violao1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m2a1_cifragem_do_violao.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m4a3_Cifragem_da_melodia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m4a3_Cifragem_da_melodia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m4a3_Cifragem_da_melodia2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m4a3_Cifragem_da_melodia2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m4a4_Valor_das_sequencias_de_notas" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m4a4_Valor_das_sequencias_de_notas.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m5a2_Escala_das_notas_para_acorde" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m5a2_Escala_das_notas_para_acorde.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="M6A1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m5a3_Formacao_de_acordes_menores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a1_1formula_acordes_maiores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a1_1formula_acordes_maiores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a1_1formula_acordes_menores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a1_1formula_acordes_menores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a1_2formula_acordes_maiores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a1_2formula_acordes_maiores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a1_2formula_acordes_menores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a1_2formula_acordes_menores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a1_3formula_acordes_maiores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a1_3formula_acordes_maiores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a1_3formula_acordes_menores" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a1_3formula_acordes_menores.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a1_formula_acordes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a1_formula_acordes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a2_sequencia_basica_acordes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a2_sequencia_basica_acordes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a2_sequencia_basica_acordes2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a2_sequencia_basica_acordes2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m6a2_sequencia_basica_acordes3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m6a2_sequencia_basica_acordes3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m7a2_Acordes_com_setima_menor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m7a2_Acordes_com_setima_menor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m9a1_Formulas_para_acordes_maiores_com_7_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m9a1_Formulas_para_acordes_maiores_com_7+.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="m9a1_Formulas_para_acordes_menores_com_7_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\m9a1_Formulas_para_acordes_menores_com_7+.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuario1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usuario11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuario2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usuario21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuario3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usuario31.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuario4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boy-5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuario5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usuario51.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="usuario6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\usuario61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cadastrar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cadastrarigual.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Voltar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\voltarigual.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="prosseguir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\prosseguir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="proxima" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\proxima.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo_etecia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\111logo_etecia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="email" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\email.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\foto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="senha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\senha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Musitec">
+</Property><Property Name="Solution File" Value="G:\Arquivos\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec.sln">
+</Property><Property Name="User Options File" Value="G:\Arquivos\Luíz 2\MusitecOficial 3.0\Musitec\Musitec\Musitec.suo">
+</Property><Property Name="Date" Value="segunda-feira, 28 de novembro de 2016">
+</Property><Property Name="Time" Value="20:14">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Musitec.sln" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Musitec.suo" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec.suo">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Musitec.csproj" Description="Project file successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Musitec.csproj">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Musitec.csproj.user" Description="Project user file successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Musitec.csproj.user">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Cadastro.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Cadastro.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Conexao.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Conexao.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\dal.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\dal.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\FotoUsuario.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\FotoUsuario.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\FotoUsuario.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\FotoUsuario.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmAux1.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmAux1.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmAux1.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmAux1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmCadastro.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmCadastro.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmCadastro.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmCadastro.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmLogin.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmLogin.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmLogin.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Metodos.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Metodos.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo1.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo1.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo1.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo10.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo10.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo10.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo10.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo11.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo11.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo11.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo11.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo12.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo12.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo12.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo12.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo13.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo13.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo13.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo13.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo14.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo14.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo14.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo14.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo15.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo15.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo15.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo15.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo16.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo16.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo16.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo16.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo2.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo2.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo2.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo3.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo3.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo3.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo4.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo4.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo4.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo4.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo5.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo5.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo5.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo5.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo6.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo6.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo6.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo6.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo7.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo7.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo7.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo7.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo8.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo8.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo8.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo8.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo9.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo9.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo9.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo9.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Perfil.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Perfil.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Perfil.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Perfil.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Program.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Program.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Properties\AssemblyInfo.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\sobre.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\sobre.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\sobre.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\sobre.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Properties\Resources.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Properties\Settings.Designer.cs" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\app.config" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\app.config">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\ClassDiagram1.cd" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Properties\Settings.settings" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\1.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\1.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\11.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\11.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\2.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\2.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\3.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\3.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\4.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\4.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\5.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\5.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\6.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\6.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\7.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\7.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\8.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\8.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\9.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\9.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Icone_Musitec.ico" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Icone_Musitec.ico">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\12.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\12.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\13.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\13.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\14.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\14.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\15.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\15.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\Imagens Módulos\16.jpg" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\Imagens Módulos\16.jpg">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\usuario1.png" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\usuario1.png">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\usuario2.png" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\usuario2.png">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\usuario3.png" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\usuario3.png">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\usuario4.png" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\usuario4.png">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\usuario5.png" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\usuario5.png">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Resources\usuario6.png" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Resources\usuario6.png">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\FotoUsuario.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\FotoUsuario.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmAux1.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmAux1.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmCadastro.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmCadastro.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\frmLogin.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo1.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo1.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo10.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo10.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo11.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo11.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo12.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo12.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo13.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo13.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo14.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo14.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo15.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo15.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo16.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo16.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo2.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo2.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo3.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo3.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo4.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo4.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo5.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo5.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo6.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo6.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo7.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo7.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo8.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo8.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Modulo9.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Modulo9.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Perfil.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Perfil.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Properties\Resources.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\sobre.resx" Description="File successfully backed up as G:\Arquivos\Luíz 2\Backup\Backup\Musitec\sobre.resx">
+</Event><Event ErrorLevel="0" Project="Musitec" Source="Musitec\Musitec.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Musitec" Source="Musitec\Musitec.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Musitec.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Musitec.sln" Description="Converted">
+</Event></UpgradeLog>

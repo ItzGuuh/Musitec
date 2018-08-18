@@ -1,0 +1,312 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Musitec
+{
+    public partial class frmAux1 : Form
+    {
+        int idAula;
+        int Modulo;
+        int x = 1;
+
+        public frmAux1(int idAula, int Modulo)
+        {
+            this.idAula = idAula;
+            this.Modulo = Modulo;
+
+            InitializeComponent();
+        }
+
+        private void btnVoltar_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        // Formulário auxiliar para puxar os conteudos do banco
+        private void frmAux1_Load(object sender, EventArgs e)
+        {
+            Focus();
+            Metodos met = new Metodos();
+            met.buscarConteudo(idAula, Modulo);
+            rtbConteudo.Text = met.NConteudo;
+            rtbConteudo.ReadOnly = true;
+
+            if (Modulo == 2 && idAula == 1)
+            {
+
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m2a1_anatomia_violao1);
+            }
+            if (Modulo == 2 && idAula == 2)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m2a1_cifragem_do_violao1);
+            }
+            if (Modulo == 4 && idAula == 4)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m4a3_Cifragem_da_melodia);
+            }
+            if (Modulo == 4 && idAula == 5)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m4a3_Cifragem_da_melodia2);
+            }
+            if (Modulo == 4 && idAula == 7)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m4a4_Valor_das_sequencias_de_notas);
+            }
+            if (Modulo == 5 && idAula == 2)
+            {
+                this.pictureBox1.Size = new System.Drawing.Size(326, 436);
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m5a2_Escala_das_notas_para_acorde);
+            }
+
+            if (Modulo == 6 && idAula == 1)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.M6A1);
+
+            }            
+            if (Modulo == 6 && idAula == 3)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a1_1formula_acordes_maiores);
+
+            }
+            if (Modulo == 6 && idAula == 4)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a1_2formula_acordes_maiores);
+
+            }
+            if (Modulo == 6 && idAula == 5)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a1_3formula_acordes_maiores);
+
+            }
+            if (Modulo == 6 && idAula == 6)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a1_1formula_acordes_menores);
+
+            }
+            if (Modulo == 6 && idAula == 7)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a1_2formula_acordes_menores);
+
+            }
+            if (Modulo == 6 && idAula == 8)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a1_3formula_acordes_menores);
+
+            }
+
+            if (Modulo == 6 && idAula == 10)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a2_sequencia_basica_acordes);
+
+            }
+
+
+            if (Modulo == 6 && idAula == 11)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m6a2_sequencia_basica_acordes);
+
+            }
+
+            if (Modulo == 7 && idAula == 3)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m7a2_Acordes_com_setima_menor);
+
+            }
+            if (Modulo == 9 && idAula == 2)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m9a1_Formulas_para_acordes_maiores_com_7_);
+
+            }
+            if (Modulo == 9 && idAula == 3)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m9a1_Formulas_para_acordes_menores_com_7_);
+
+            }
+            if (Modulo == 10 && idAula == 3)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m10a3_Formulas_para_acordes_maiores_com_6);
+
+            }
+            if (Modulo == 10 && idAula == 4)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m10a3_Formulas_para_acordes_menores_com_6);
+
+            }
+            if (Modulo == 10 && idAula == 7)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m10a5_Formulas_para_acordes_maiores_com_67);
+
+            }
+            if (Modulo == 10 && idAula == 8)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m10a5_Formulas_para_acordes_menores_com_67);
+
+            }
+
+            if (Modulo == 11 && idAula == 2)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a_Simbologia_dos_ritmos);
+
+            }
+            if (Modulo == 11 && idAula == 4)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a_Compasso);
+
+            }
+            if (Modulo == 11 && idAula == 7)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a5_O_violao_e_a_bateria);
+
+            }
+            if (Modulo == 11 && idAula == 8)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a5_A_puxada_no_chimbal);
+
+            }
+            if (Modulo == 11 && idAula == 9)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a5_A_batida_na_caixa);
+
+            }
+            if (Modulo == 11 && idAula == 10)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a5_Na_hora_do_repique);
+
+            }
+            if (Modulo == 11 && idAula == 11)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a6_1Balada_jovem_e_rock_pop);
+
+            }
+            if (Modulo == 11 && idAula == 12)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a7_Ritmos_dedilhados);
+
+            }
+            if (Modulo == 11 && idAula == 13)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a7_Ritmos_dedilhados);
+
+            }
+            if (Modulo == 12 && idAula == 3)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m11a7_Ritmos_dedilhados);
+
+            }
+            if (Modulo == 12 && idAula == 4)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m12a5_Acordes_com_setima_diminutiva);
+
+            }
+            if (Modulo == 13 && idAula == 3)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m13a3_Formulas_pra_acordes_maiores_com_4);
+
+            }
+            if (Modulo == 13 && idAula == 5)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m13a5_1Formulas_para_acordes_maiores_com_47);
+
+            }
+            if (Modulo == 13 && idAula == 6)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m13a5_2Formulas_para_acordes_menores_com_47);
+
+            }
+            if (Modulo == 16 && idAula == 3)
+            {
+                this.pictureBox1.Size = new System.Drawing.Size(442, 425);
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m16a3_1Formulas_para_acordes_maiores_com_9);
+
+            }
+            if (Modulo == 16 && idAula == 4)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m16a3_2Formulas_para_acordes_menores_com_9);
+
+            }
+            if (Modulo == 16 && idAula == 5)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m16a4_Acordes_com_49_nem_maiores_nem_menores);
+
+            }
+            if (Modulo == 16 && idAula == 7)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m16a5_Formulas_para_acordes_maiores_com_69);
+
+            }
+            if (Modulo == 16 && idAula == 8)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m16a5_Formulas_para_acordes_menores_com_69);
+
+            }
+            if (Modulo == 16 && idAula == 10)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m16a7_Formulas_para_acordes_maiores_com_79);
+
+            }
+            if (Modulo == 16 && idAula == 11)
+            {
+
+                pictureBox1.BackgroundImage = new Bitmap(Properties.Resources.m16a7_Formulas_para_acordes_menores_com_79);
+
+            }
+            
+            
+
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int idAula = x + 1;
+            frmAux1 aula = new frmAux1(idAula, Modulo);
+            aula.Show();
+        }
+    }
+}

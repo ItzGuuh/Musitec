@@ -1,0 +1,15 @@
+https://developers.facebook.com/
+
+
+Como  montar o codigo FB:
+
+https://developers.facebook.com/docs/facebook-login/manually-build-a-login-flow#checklogin
+
+
+Como incorporar uma janela web no projeto:
+https://msdn.microsoft.com/pt-br/library/ms154537(v=sql.120).aspx
+
+
+
+Como adicionar sons em um botão no c#:
+http://www.c-sharpcorner.com/uploadfile/kapilsoni88/simple-mp3-player/
