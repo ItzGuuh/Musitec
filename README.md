@@ -1,4 +1,4 @@
 # Musitec
 Versões do Musitec
 
-Aqui tem todasas minhas pastas que estão escrito que são a última ersão do Musitec.
+Aqui tem todas as minhas pastas que estão escrito "última versão do Musitec".
