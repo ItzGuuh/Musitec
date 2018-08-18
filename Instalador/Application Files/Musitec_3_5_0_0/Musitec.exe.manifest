@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Musitec.exe" version="3.5.0.0" publicKeyToken="ec14fb21c771a604" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Logo-01.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Musitec" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Musitec.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Musitec.exe" size="16314312">
+      <assemblyIdentity name="Musitec" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Kj0JFpBuBi/IFJbhw1H+ALCODGA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="424448">
+      <assemblyIdentity name="MySql.Data" version="6.9.9.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>VTMUnibp0cGsS3/5ypdWHoiqmlM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Icone_Musitec.ico" size="102314">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nEKwEqhe0se2tysHONolc3snQZU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Logo-01.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>S/GMFgIY5ir0VIse/05O9GWqoFg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Musitec.exe.config" size="144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cpzNzlRjZspwKGLNlX6RAlU3880=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Imagens Módulos\12.jpg" size="144645">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>f55To91iUwaXKzERmiXRqf2ZfQ0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Imagens Módulos\13.jpg" size="42657">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NCgicFl3R/q2HWIIRSxhOWajzsg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Imagens Módulos\14.jpg" size="37394">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gkuxWarzz3wUoP7zdhJ07u+Usm4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Imagens Módulos\15.jpg" size="527941">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Uw5FTqY+vtvOBn7cPUOe2RN6sMM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\Imagens Módulos\16.jpg" size="43088">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Hxa4M3xXHNHT4Xq6j5MTnRazBe4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\usuario1.png" size="4838">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JWMEoxqe7o6I8YhgUdh8HuCwWKE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\usuario2.png" size="5687">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4x/vZ9fngb37JgpGjlcAdkllejo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\usuario3.png" size="5673">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>maMoM1p95qmI4AIEFV3HO5WDhW4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\usuario4.png" size="5656">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>sVAH4Rmk+qnpyYKZgiXKDf6h41w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\usuario5.png" size="3779">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>iCsnXe6MjxygGA00Pap0W+IV2oc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\usuario6.png" size="4020">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>YM6GQWrLmhGrUqQUM9OYa0I70Yw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on and is
+           is designed to work with. Uncomment the appropriate elements and Windows will 
+           automatically selected the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=DESKTOP-ENQ4JNF\Gustavo" issuerKeyHash="a0765015b72635f602d9bfbf82924cfdaf15c591" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>6md5Z4DBZW7d631tBg+3vbqtFJo=</DigestValue></Reference></SignedInfo><SignatureValue>jgGLtk/HB+4qlQVWxTeq9n0jNFsZTlguBkk/aSrHoMZhOHM0OhJFGooSwGj2+oryLAEIJnNXhpvFpbSjn2ZKm06EGf4AunALmbhhwQgwziDNnyEREdt7AASEN8ATiffKt/xXFs8dz3UfEcOkimwoA7RLT4ID70+bMQiqEHMnItQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qPnaDm+2M1oZZIz8FuKeYinTHXx0wXQbCaLNhWM/aCFopdcIu2gFRWJnprwCO2fgL2M8JyIICNyS0ncdwuspvXzrx3n9YQB7fpNKzj8jrXkC4p98KtSBLKhjqGuQs1kmI7MKJILnsEkEGW8PEOnhJ69hHL56B91lNDA83Rto5Xs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="9a14adbabdb70f066d7debdd6e65c180677967ea" Description="" Url=""><as:assemblyIdentity name="Musitec.exe" version="3.5.0.0" publicKeyToken="ec14fb21c771a604" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-ENQ4JNF\Gustavo</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>86kQoffZGkiOZgfhqbX6Qn3H8iQ=</DigestValue></Reference></SignedInfo><SignatureValue>HrokaeHSVimZ7QVwc/ytWTg+8lPxcqCg/cjZy8NWyVMRg33PlM1JTj5g0/e0F9dVAvk/Tn2sOYONMENk/i7rd0Zfp2PeDGmU6h2zk05AgbMZHVmgoW4K578814rQLbgIh+j/B7TIhZFTMNZ4ZsTURd/nDqmA+XUcrTz0jiQ19+c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qPnaDm+2M1oZZIz8FuKeYinTHXx0wXQbCaLNhWM/aCFopdcIu2gFRWJnprwCO2fgL2M8JyIICNyS0ncdwuspvXzrx3n9YQB7fpNKzj8jrXkC4p98KtSBLKhjqGuQs1kmI7MKJILnsEkEGW8PEOnhJ69hHL56B91lNDA83Rto5Xs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQH8iErb2yibtKSPlw2+hidTANBgkqhkiG9w0BAQUFADA5MTcwNQYDVQQDHi4ARABFAFMASwBUAE8AUAAtAEUATgBRADQASgBOAEYAXABHAHUAcwB0AGEAdgBvMB4XDTE2MTEzMDAxNDg1NVoXDTE3MTEzMDA3NDg1NVowOTE3MDUGA1UEAx4uAEQARQBTAEsAVABPAFAALQBFAE4AUQA0AEoATgBGAFwARwB1AHMAdABhAHYAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqPnaDm+2M1oZZIz8FuKeYinTHXx0wXQbCaLNhWM/aCFopdcIu2gFRWJnprwCO2fgL2M8JyIICNyS0ncdwuspvXzrx3n9YQB7fpNKzj8jrXkC4p98KtSBLKhjqGuQs1kmI7MKJILnsEkEGW8PEOnhJ69hHL56B91lNDA83Rto5XsCAwEAATANBgkqhkiG9w0BAQUFAAOBgQB33PrjXegZ9hvYOPQSEjcIaQ6+m4DDCsCrD4sMZKQ8rmK5GpD/Q6PN3Y8IjYt+xLpCB26DCMOrnnDuKH+MqEDGb0KRfL2m5+X6RVT930uspeBUEVRD/9IYHz1XebGv8H7DTE31vKMHarKugwTsvTDVSVCNhHM9bRullst1FdJ1Zw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
